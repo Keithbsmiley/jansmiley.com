@@ -1,0 +1,10 @@
+a{font-family:"Helvetica Neue",Helvetica,Verdana,"Lucida Grande",Futura,"Gill Sans",Optima;font-weight:bold;color:#d6cda3;text-decoration:none;}
+a2{color:#7d4228;}
+a:hover{text-shadow:#000 0 1px 0;text-decoration:none;color:#d6cda3;}
+a:active{text-shadow:#000 0 1px 0;text-decoration:none;color:#d6cda3;text-decoration:underline;}
+body{font-family:"Helvetica Neue",Helvetica,Verdana,"Lucida Grande",Futura,"Gill Sans",Optima;color:#7d5328;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;background-color:#996;}
+h1{color:#472d13;font:normal bold 24px "Helvetica Neue",Helvetica,Verdana,"Lucida Grande",Futura,"Gill Sans",Optima;}
+h2{color:#66421d;font:bold 16px "Helvetica Neue",Helvetica,Verdana,"Lucida Grande",Futura,"Gill Sans",Optima;}
+h6{color:#77685c;font:normal normal 9px "Helvetica Neue",Helvetica,Verdana,"Lucida Grande",Futura,"Gill Sans",Optima;}
+img{border:0;}
+a:link,a:hover{cursor:pointer;}

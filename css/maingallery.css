@@ -1,0 +1,1 @@
+.clear{clear:both}#gallery{position:relative;height:400px;text-indent:-9999;margin:auto}#gallery div{float:left;position:absolute}#gallery div img{border:none}#gallery div.show{z-index:500}

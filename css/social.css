@@ -1,0 +1,10 @@
+img{border:0;}
+a:link,a:hover{cursor:pointer;}
+#social{text-indent:-9999px;margin:0;padding:0;outline:none;list-style:none;}
+#social a{width:48px;height:48px;background:url('../images/social.png') no-repeat;display:block;}
+#social .facebook a{background-position:0 0;}
+#social .facebook a:active{background-position:0 -49px;}
+#social .twitter a{background-position:-49px 0;outline:none;}
+#social .twitter a:active{background-position:-49px -49px;}
+#social .mail a{width:46px;height:46px;background-position:-98px 0;}
+#social .mail a:active{background-position:-98px -49px;}
